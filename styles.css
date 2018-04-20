@@ -1,0 +1,13 @@
+:root {
+    font-size: 10px;
+}
+body {
+    margin: 0;
+}
+p {
+    margin-top: 0;
+}
+.component-text {
+    margin: 0 1rem;
+    font-size: 1.8rem;
+}

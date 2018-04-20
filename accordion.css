@@ -1,0 +1,16 @@
+.accordion-div {
+    width: 100vw;
+    background-color: #F7F7F7;
+    padding: 1rem 2rem;
+    font-size: 1.8rem;
+    border: 1px solid #DFDFDF;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.accordion-text {
+	padding: 1.5rem;
+	font-size: 1.8rem;
+	border: 1px solid #DFDFDF;
+	width: inherit;
+}
